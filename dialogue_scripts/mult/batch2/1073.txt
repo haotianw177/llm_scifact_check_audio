@@ -1,0 +1,31 @@
+
+ Scientific claim: Sepsis related mortality has risen from 2009 to 2014. 
+ Participant Dynamics: Practitioner vs. Decision-Maker 
+ Contextual Arena: The Persuasive Arena (goal: to win over an audience) 
+ Interaction Trigger: A Recent Discovery (new, urgent data) 
+ Dialogue Objective: To Reach a Decision (choose or reject an action) 
+```
+**Dr. Evans:** Good morning, everyone. Thank you for joining us on such short notice. I'm here to discuss a recent discovery that demands our immediate attention. Our data indicates that sepsis-related mortality has risen significantly from 2009 to 2014.
+
+**Mr. Roberts:** That's concerning, Dr. Evans. Could you provide more context? Why is this happening now?
+
+**Dr. Evans:** Certainly, Mr. Roberts. We've identified multiple factors, including antibiotic resistance and delayed diagnosis. Our recent studies suggest that early detection and intervention can drastically reduce mortality rates.
+
+**Mr. Roberts:** I see. So, what exactly are you proposing we do in response to this data?
+
+**Dr. Evans:** We need to implement an enhanced sepsis protocol across all our medical facilities. This involves investing in the latest diagnostic tools and providing specialized training for our staff to recognize early symptoms.
+
+**Mr. Roberts:** This sounds like a substantial investment. How can we be sure that these measures will yield results?
+
+**Dr. Evans:** Our pilot program in a few hospitals showed a 20% decrease in mortality rates within the first year. The initial costs will be offset by the reduction in long-term care expenses and improved patient outcomes.
+
+**Mr. Roberts:** And what about the resistance from some of the board members who might argue that resources should be allocated elsewhere?
+
+**Dr. Evans:** I understand their concerns, but I must emphasize the urgency. If we delay, the mortality rate will continue to climb. The data is irrefutable, and the potential benefits far outweigh the initial expenditure.
+
+**Mr. Roberts:** You've made a compelling case, Dr. Evans. I’ll bring this to the board meeting next week. In the meantime, could you prepare a detailed proposal outlining the costs and expected outcomes?
+
+**Dr. Evans:** Absolutely, Mr. Roberts. I'll have the proposal ready by the end of the week. Thank you for your support in addressing this critical issue.
+
+**Mr. Roberts:** Thank you, Dr. Evans. Let's work together to ensure the health and safety of our patients.
+```

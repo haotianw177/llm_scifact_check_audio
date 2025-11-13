@@ -1,0 +1,39 @@
+
+ Scientific claim: Sepsis related mortality has remained stable between 2009-2014. 
+ Participant Dynamics: Peer vs. Peer 
+ Contextual Arena: The Deliberative Arena (goal: to make a strategic choice) 
+ Interaction Trigger: A Recent Discovery (new, urgent data) 
+ Dialogue Objective: To Define the Disagreement (map out points of conflict) 
+```   
+Dr. Collins: Alright, team, we need to address the new data on sepsis mortality rates. The study claims mortality has remained stable between 2009 and 2014. 
+
+Dr. Patel: Yes, but recent findings suggest that there are discrepancies, particularly in under-reported regions.
+
+Dr. Collins: Are you saying the data's flawed?
+
+Dr. Patel: Not flawed, necessarily. But potentially misleading. The data doesn't account for the advancements in detection and reporting.
+
+Dr. Collins: But the mortality rate staying stable indicates treatment hasn't improved, right?
+
+Dr. Patel: Or perhaps the reporting mechanisms weren't robust enough until recently. The latest algorithms show increased detection, which could skew perceived mortality rates.
+
+Dr. Collins: So, you're suggesting we might have been seeing more cases, but not more deaths proportionally?
+
+Dr. Patel: Exactly. And that needs to be factored into how we strategize future research and resource allocation.
+
+Dr. Collins: Interesting. But if the mortality rate is stable, how do we justify the push for more funding in this area?
+
+Dr. Patel: By emphasizing the need for improved detection and reporting. If we can show that better data collection could lead to more precise interventions, it supports our case.
+
+Dr. Collins: But won’t stakeholders argue that stable mortality suggests limited progress?
+
+Dr. Patel: That’s precisely where we need to redefine the narrative. It’s not just about the mortality figures but understanding the underlying trends in detection and treatment efficacy.
+
+Dr. Collins: So, the disagreement is essentially about the interpretation of stability as stagnation versus an opportunity for deeper analysis.
+
+Dr. Patel: Precisely. We need to highlight how this stability in mortality could mask significant advancements in early detection and treatment.
+
+Dr. Collins: Alright, let's map out these discrepancies in a report. We need to clarify our stance before presenting this to the board. 
+
+Dr. Patel: Agreed. It’s crucial to redefine this narrative for more informed strategic decisions.
+```

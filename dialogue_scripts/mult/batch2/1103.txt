@@ -1,0 +1,33 @@
+
+ Scientific claim: Stroke patients with prior use of direct oral anticoagulants have a higher risk of in-hospital mortality than stroke patients with prior use of warfarin. 
+ Participant Dynamics: Advocate vs. Skeptic 
+ Contextual Arena: The Personal Arena (goal: to resolve a personal, high-stakes matter) 
+ Interaction Trigger: An External Mandate (a new law, policy, or trend) 
+ Dialogue Objective: To Reach a Decision (choose or reject an action) 
+```
+**Dr. Collins:** So, Emma, have you read the new policy from the health board? They're pushing for a switch from warfarin to direct oral anticoagulants for stroke patients.
+
+**Emma:** Yes, I have, Dr. Collins. But I'm concerned. There's a study suggesting those on direct oral anticoagulants have a higher in-hospital mortality rate compared to those on warfarin.
+
+**Dr. Collins:** I understand your concern. But the board claims these newer anticoagulants are easier to manage and require less monitoring. That's significant for patient compliance.
+
+**Emma:** True, but should we prioritize convenience over safety? The study's findings can't just be ignored.
+
+**Dr. Collins:** Absolutely not. But we must consider the broader picture. Many patients struggle with regular INR checks on warfarin. Missing those can be equally dangerous.
+
+**Emma:** I agree on that point. But switching without solid evidence supporting safety feels like a gamble with patient lives. Do we really want to risk that?
+
+**Dr. Collins:** That’s a valid concern, Emma. However, the board argues that the overall benefits outweigh the risks. Reduced hospitalization for bleeding issues, for instance.
+
+**Emma:** Yet, we're talking about mortality here. If patients are more likely to die in-hospital, isn't that the ultimate risk?
+
+**Dr. Collins:** It's a critical point. But what if the mortality rate is more correlated with the severity of their initial condition rather than the medication itself?
+
+**Emma:** Perhaps. But until we have clear data, shouldn’t we err on the side of caution? We could pilot the change with a select group and monitor outcomes closely.
+
+**Dr. Collins:** That could be a reasonable compromise. I’ll propose a pilot study to the board. Let’s ensure we gather enough evidence before making this a blanket policy.
+
+**Emma:** Thank you, Dr. Collins. I think that’s a responsible approach.
+
+**Dr. Collins:** Agreed. Our priority is always patient safety. Let's take this step by step.
+```

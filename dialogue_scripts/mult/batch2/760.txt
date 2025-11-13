@@ -1,0 +1,32 @@
+
+ Scientific claim: Mathematical models predict that using Artemisinin-based combination therapy over nongametocytocidal drugs have only a modest impact in reducing malaria transmission. 
+ Participant Dynamics: Practitioner vs. Decision-Maker 
+ Contextual Arena: The Deliberative Arena (goal: to make a strategic choice) 
+ Interaction Trigger: An External Mandate (a new law, policy, or trend) 
+ Dialogue Objective: To Define the Disagreement (map out points of conflict) 
+```
+Practitioner: So, according to the new health policy, we're supposed to prioritize Artemisinin-based combination therapy, despite the mathematical models indicating only a modest impact on malaria transmission.
+
+Decision-Maker: Yes, that’s the directive. The policy aims at reducing transmission rates and improving treatment efficacy.
+
+Practitioner: I understand the intent, but the data suggests that non-gametocytocidal drugs might be just as effective in this regard. The models show only a slight advantage with the combination therapy.
+
+Decision-Maker: The policy was influenced by recent international recommendations. There’s a global push towards standardizing treatment protocols.
+
+Practitioner: But does standardization necessarily mean improved outcomes? The models we rely on should inform these decisions. They indicate that the impact isn't as significant as expected.
+
+Decision-Maker: True, but we have to consider other factors. Artemisinin-based therapies have shown high efficacy in treating malaria. The policy isn’t just about transmission but also about reducing drug resistance.
+
+Practitioner: While I agree with the resistance argument, shouldn’t we explore options that are locally effective? The data shows that non-gametocytocidal drugs are still performing well in our region.
+
+Decision-Maker: Local effectiveness is important, but our strategy needs alignment with global health initiatives. We're accountable to both local needs and international standards.
+
+Practitioner: That's the crux of our disagreement. Balancing global mandates with local realities. Our models emphasize the modest transmission reduction with the new approach, suggesting we might need a more tailored strategy.
+
+Decision-Maker: I see your point. Perhaps there’s room for a pilot study to assess localized impacts while still adhering to the broader policy framework?
+
+Practitioner: That sounds like a reasonable compromise. It’s crucial that our strategies are evidence-driven and adaptable to real-world outcomes.
+
+Decision-Maker: Agreed. Let's work on proposing that study and see how we can measure its impact effectively.
+
+```

@@ -118,7 +118,7 @@ def generate_dialogue_script(scientific_claim: str, model: str = "gpt-4o",  dial
 # --- Main execution block to demonstrate usage ---
 if __name__ == "__main__":
     records = []
-    filepath = '/Users/akritidhasmana/scifact-open/data/claims.jsonl'
+    filepath = './claims_train.jsonl'
 
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
@@ -144,10 +144,11 @@ if __name__ == "__main__":
 
     print(f"RECORDS: \n {records}")
 
-    for record in records[0:20]:
+    for record in records[20:]:
         sample_claim = record['claim']
         claim_id = record['id']
-        
+        if not record['evidence']:
+            pass
         try:
             openai.api_key = os.getenv("OPENAI_API_KEY")
             if openai.api_key is None:
@@ -179,7 +180,7 @@ if __name__ == "__main__":
             print("--- Generated Dialogue Script ---")
             print(generated_script)
             print("-------------------------------")
-            with open(f'dialogue_scripts/mult/{claim_id}.txt', 'w+') as f:
+            with open(f'dialogue_scripts/mult/batch2/{claim_id}.txt', 'w+') as f:
                 f.writelines(generated_script)
                 f.close()
         else:

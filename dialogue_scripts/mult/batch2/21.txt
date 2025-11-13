@@ -1,0 +1,32 @@
+
+ Scientific claim: 70% of burn patients are admitted for hospitalization and further treatment after appearing at hospital emergency wards or outpatient clinics. 
+ Participant Dynamics: Peer vs. Peer 
+ Contextual Arena: The Didactic Arena (goal: to teach or learn) 
+ Interaction Trigger: An External Mandate (a new law, policy, or trend) 
+ Dialogue Objective: To Define the Disagreement (map out points of conflict) 
+```       
+Speaker 1: Recently, there's been a lot of talk about the new healthcare policy regarding burn patients. Have you heard about it?
+
+Speaker 2: Yes, I did catch something about it. They're saying that now 70% of burn patients who come to emergency wards end up being hospitalized for further treatment. It seems quite significant.
+
+Speaker 1: Exactly! But I think it’s a bit misleading. The statistic is too broad. Not all burns require hospitalization, right?
+
+Speaker 2: Well, the policy suggests that the severity of burns often gets underestimated in outpatient settings, which leads to complications later. So, maybe this mandate is trying to avoid those issues?
+
+Speaker 1: Sure, but doesn’t this blanket approach ignore individual patient needs? Some might end up hospitalized unnecessarily, using up resources that could be better allocated elsewhere.
+
+Speaker 2: That’s a fair point. But wouldn't you agree that it’s better to err on the side of caution? Especially when we’re talking about something as serious as burn injuries?
+
+Speaker 1: True, caution is crucial. However, I think there should be a more nuanced assessment. Maybe a specialized team could evaluate cases in the ER to decide who really needs hospitalization.
+
+Speaker 2: That sounds ideal, but implementing that kind of system would require more staffing and funding. Are hospitals ready for that?
+
+Speaker 1: That's another challenge. And then there’s the psychological aspect. Prolonged hospital stays can be distressing for patients, especially if they're not absolutely necessary.
+
+Speaker 2: You've got a point. But if the policy reduces the long-term health issues related to burns, the initial discomfort might be worth it. It’s a tough balance to find.
+
+Speaker 1: Definitely. I guess the real disagreement is about finding the balance between precaution and practicality. Both are essential, but getting it right is complex.
+
+Speaker 2: Agreed. Maybe this new policy will evolve as we learn more about its impact. It’s a learning process, after all.
+
+```
