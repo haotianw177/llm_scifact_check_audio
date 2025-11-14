@@ -23,7 +23,7 @@ except ValueError as e:
 client = OpenAI(api_key=openai.api_key)
 
 
-CHARACTER_VOICES = ["alloy", "ash", "ballad", "coral", "echo", "fable",
+CHARACTER_VOICES = ["alloy", "ash", "coral", "echo", "fable",
                     "nova","onyx", "sage", "shimmer"]
 # Define the length of the pause between lines (in milliseconds)
 PAUSE_DURATION_MS = 1000  # 1 second
@@ -37,8 +37,9 @@ def assign_voices(characters):
     # Extract Characters 
     # Define the voice for each character
     char_voices_mapping = {}
+    voices =  random.choices(CHARACTER_VOICES, k = len(characters))
     for char in characters:
-        voice = random.choice(CHARACTER_VOICES)
+        voice = voices.pop()
         char_voices_mapping[char] = voice
     return char_voices_mapping
 
@@ -104,7 +105,7 @@ def combine_audio_segments(audio_files: list[Path], pause_ms: int, output_file: 
 if __name__ == "__main__":
     # Load the claims
     records = []
-    filepath = '/Users/akritidhasmana/scifact-open/data/claims.jsonl'
+    filepath = './claims_train.jsonl'
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
             for line_number, line in enumerate(f, 1):
@@ -129,16 +130,18 @@ if __name__ == "__main__":
 
     print(f"RECORDS: \n {records}")
 
-    for record in records[0:3]:
+    for record in records:
+        if not record['evidence']:
+            continue
         claim = record['claim']
         claim_id = record['id']
-        with open(f"dialogue_scripts/mult/{claim_id}.txt", 'r', encoding='utf-8') as f:
+        with open(f"dialogue_scripts/mult/batch2/{claim_id}.txt", 'r', encoding='utf-8') as f:
                 dialogue = f.readlines()
     
         # 1. Parse the dialogue
         characters, dialogue_lines = parse_dialogue(dialogue)
         character_voices = assign_voices(characters)
-        output_filename = f"audio_files/{claim_id}.mp3"
+        output_filename = f"audio_files/batch2/{claim_id}.mp3"
         
         if not dialogue_lines:
             print("Error: Could not parse any dialogue lines from the script.")
