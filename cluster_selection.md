@@ -1,6 +1,6 @@
 # Randomly select 3 claims with evidences from each clusters, then we name the topic categories base on the 3 claims:
 
-### --- TOPIC 0 ---
+### --- TOPIC 0 --- Metabolic & Cardiovascular Physiology
 - Stiff substrates encourage mesodermal differentiation by degrading beta-catenin in an integrin-dependent manner.
 - Higher plasma levels of I-carnitine, when associated with trimethylamine N-oxide, are positively correlated with cardiovascular events in humans.
 - Omnivores produce more trimethylamine N-oxide from dietary I-carnitine than vegetarians.
