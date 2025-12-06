@@ -11,6 +11,6 @@ for topic_number in range(10):
     subset = df[df['topic_id'] == topic_number]
     
     # Print the first 3 claims in this topic
-    examples = subset['claim'].head(3).tolist()
+    examples = subset['claim'].sample(3).tolist()
     for claim in examples:
         print(f"- {claim}")
