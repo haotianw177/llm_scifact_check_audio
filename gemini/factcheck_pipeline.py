@@ -12,9 +12,9 @@ from tqdm import tqdm  # Standard tqdm, not asyncio
 
 # --- CONFIGURATION ---
 API_KEY = "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"
-INPUT_AUDIO_FOLDER = "./gemini_audios/mult/batch1"
+INPUT_AUDIO_FOLDER = "./audios_gemini_new"
 DATASET_FILE = "../claims_train.jsonl"
-OUTPUT_CSV = "./gemini_fact_check_results.csv"
+OUTPUT_CSV = "./gemini_fact_check_results1.csv"
 
 if not API_KEY:
     raise ValueError("Please set the OPENAI_API_KEY environment variable.")
