@@ -49,3 +49,17 @@
 - Notch signaling occurs between tumor cells and stromal cells.
 - B cells go though plasmablast differentiation and antibody production by continuous expression of EBI2.
 - Klf4 is important for proper myeloid cell differentiation.
+
+
+Another 
+Cluster ID (topic_id)	Inferred Label
+0	Molecular Mechanisms and Therapeutic Interventions (Claims covering fundamental mechanisms, such as cell differentiation and metabolism, alongside specific drug/treatment effects).
+1	Cancer and Therapeutic/Diagnostic Biomarkers (Claims focused on cancer etiology, risk factors, drug metabolism, and general mortality biomarkers).
+2	Model Organisms and Cell/Developmental Biology (Claims primarily relating to fundamental biological processes and their study using model organisms like Zebrafish and mice, and stem cell function).
+3	Public Health and Clinical Practice Outcomes (Claims about clinical standards, public health issues, treatment adherence, and the broad effects of clinical interventions like bariatric surgery).
+4	Cellular Signaling and Disease Mechanisms (Claims detailing specific molecular pathways and cell signaling in the context of diseases like atherosclerosis, drug resistance, and neurological function).
+5	Epidemiology, Health Policy, and Clinical Outcomes (Claims regarding disease prevalence, health economics, public health effects of antimicrobial usage, and the outcomes of specific clinical procedures).
+6	Gene Regulation and Molecular Biology (Claims focused on the control of gene expression, including chromatin modification, transcription factors, and post-transcriptional processing).
+7	Immunology and Inflammation (Claims related to the immune system, inflammation, pattern recognition receptors, T-cell function, and the immunological aspects of disease).
+8	Metabolic Disorders and Related Therapies (Claims centered on conditions like obesity, insulin resistance, atherosclerosis, and the effects of pharmacological treatments in this domain).
+9	Oncology and Cell Death/Survival Pathways (Claims focusing on cancer-related molecular mechanisms, including DNA repair, apoptosis, and the function of key regulatory proteins like p53 and BCL-2).
