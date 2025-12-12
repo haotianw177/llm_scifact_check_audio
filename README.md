@@ -1,3 +1,6 @@
 # llm_scifact_check_audio
-A course project for CSE 60556 Large Language Models at University of Notre Dame, advised by professor Meng Jiang, Fall 2025
+A course project for CSE 60556 Large Language Models at the University of Notre Dame, advised by Professor Meng Jiang, Fall 2025
+
+The widespread issue of misinformation in the domain of science has significantly impacted the health and well-being of the general public. Increasingly, scientific claims made on podcasts find their way to mainstream discourse, influencing decision-making and legislation. Although multiple models are available for fact-checking scientific claims in textual documents, not enough work has been done on claim detection and verification in noisy speech. Scientific fact-checking in natural dialogue is especially challenging due to the structure of the data. Multiple overlapping speakers can make it hard to attribute speech and detect when a verifiable claim is made in regular conversation. The lack of data sets for the detection of scientific claims in natural conversations can further exacerbate the issue, blocking progress in this domain. To that measure, our objectives are two-fold. We created a labeled multimodal dataset of natural dialogue with and without scientific claims and a pipeline for the detection and verification of scientific claims in natural speech.
+
 
